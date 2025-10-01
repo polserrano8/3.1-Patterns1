@@ -5,7 +5,7 @@ S3.01 - Patterns 1
   
 # 🎯 Objectives
 
-TIn this practice we will learn to identify and build programs using design patterns. The use of patterns is fundamental in building extensible and reusable software. The Java language, as well as all software frameworks, are built according to the most important software patterns.
+In this practice we will learn to identify and build programs using design patterns. The use of patterns is fundamental in building extensible and reusable software. The Java language, as well as all software frameworks, are built according to the most important software patterns.
 
 ---
 #Exercises to Perform
@@ -47,6 +47,7 @@ Show how the Command pattern works by implementing the start, accelerate and bra
 ---
 
 ## 📋 Requirements  
+
 - Java 19
 - IntelliJ or another IDE 
 - Git 2.51
