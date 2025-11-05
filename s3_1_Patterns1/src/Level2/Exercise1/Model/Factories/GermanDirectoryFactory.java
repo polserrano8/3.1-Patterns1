@@ -7,7 +7,6 @@ import Level2.Exercise1.Model.Products.TelephoneNumber;
 
 public class GermanDirectoryFactory implements DirectoriesFactory {
 
-
     @Override
     public Address makeAddress(String recipientName, String streetName, String houseNumber, String postalCode, String city) {
         return new GermanAddress().addressCreation(recipientName,streetName,houseNumber,postalCode,city);
